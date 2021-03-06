@@ -21,7 +21,7 @@
 ### The start of the game
 ![Imgur](https://i.imgur.com/XdxKzWM.png)
 
-### In the middle of the game
+### During the game
 ![Imgur](https://i.imgur.com/XL60Ulp.png)
 
 ### The end screen
