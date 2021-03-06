@@ -6,9 +6,10 @@
     - in the playing screen a sphere and moving platforms
 - The target of the player is to increase his score by collecting coins and avoid obstacles (potholes, roadblocks)
 - The objectives of this homework were:
-    - The use of the shaders
+    - Implementation of a shader file and to learn to link them with an object
     - The use of textures
-    - Getting used to work with a camera
+    - Getting used to the 3D transformations (translation, rotation, scalling)
+    - The implementation of a thid person and a first person camera
 
 **Languages**
 - The project was developed using C++ and OpenGL framework.
